@@ -1,0 +1,90 @@
+body {
+    position: relative;
+    width: 1440px;
+    height: 841px;
+
+    background: #161414;
+}
+
+.HelpTitle {
+    position: absolute;
+    width: 372px;
+    height: 63px;
+    left: 534px;
+    top: 69px;
+
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 64px;
+
+    color: #FFFFFF;
+}
+
+.DuHelp {
+    position: absolute;
+    width: 525px;
+    height: 280px;
+    left: 103px;
+    top: 322px;
+
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 40px;
+
+    color: #FFFFFF;
+}
+
+.SuggestionHelp {
+    position: absolute;
+    width: 517px;
+    height: 320px;
+    left: 812px;
+    top: 322px;
+
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 40px;
+
+    color: #FFFFFF;
+}
+
+.BtmBar1 {
+    position: absolute;
+    width: 1440px;
+    height: 68px;
+    left: 0px;
+    top: 773px;
+
+    background: #383838;
+}
+
+.ByOlivaTxt1 {
+    position: absolute;
+    width: 226px;
+    height: 38px;
+    left: 642px;
+    top: 760px;
+
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+
+    color: #FFFFFF;
+}
+
+.HomeIconHelp {
+    position: absolute;
+    width: 81.75px;
+    height: 70px;
+    left: 1240px;
+    top: 120px;
+}
+

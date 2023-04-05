@@ -1,0 +1,137 @@
+
+
+.LinearBackground {
+    position: absolute;
+    width: 1449px;
+    height: 1011px;
+    left: -5px;
+    top: 0px;
+
+}
+
+.TitleText {
+    position: absolute;
+    width: 450px;
+    height: 70px;
+    left: 495px;
+    top: 92px;
+
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 84px;
+
+    color: #FFFFFF;
+}
+
+.HelpText {
+    position: absolute;
+    width: 323px;
+    height: 36px;
+    left: 547px;
+    top: 250px;
+
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 48px;
+
+    color: #000000;
+
+}
+
+
+
+
+.HelpImg {
+    position: absolute;
+    width: 381px;
+    height: 76px;
+    left: 518px;
+    top: 280px;
+
+    background: #464646;
+    border-radius: 10px;
+
+}
+
+.HelpBoxTogether:hover {
+    opacity: 70%;
+}
+
+.TdayDuText {
+    position: absolute;
+    width: 169px;
+    height: 58px;
+    left: 217px;
+    top: 412px;
+
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+
+
+    color: #000000;
+}
+
+.TdayDuImg {
+    position: absolute;
+    width: 385px;
+    height: 319px;
+    left: 110px;
+    top: 555px;
+    border-radius: 20px;
+
+}
+
+.TdayDuImg:hover {
+    opacity: 70%;
+}
+
+.AboutWebsite {
+    position: absolute;
+    width: 580px;
+    height: 319px;
+    left: 735px;
+    top: 542px;
+
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 50px;
+
+    color: #000000;
+}
+
+.BtmBar {
+    position: absolute;
+    width: 1440px;
+    height: 68px;
+    left: 0px;
+    top: 956px;
+
+    background: #383838;
+
+}
+
+.ByOlivaTxt {
+    position: absolute;
+    width: 202px;
+    height: 38px;
+    left: 634px;
+    top: 940px;
+    
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    
+    color: #FFFFFF;
+
+}
